@@ -1,0 +1,8 @@
+{
+  "urls": [
+    "/historicalData/:stockID",
+    "/rates/:stockID",
+    "/graph/:stockID",
+    "/newsAndAnalysis/:stockID"
+  ]
+}
